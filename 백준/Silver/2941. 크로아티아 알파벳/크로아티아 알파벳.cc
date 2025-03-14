@@ -41,10 +41,4 @@ int main()
 
     std::cout << count << '\n';  // 최종 개수 출력
     return 0;
-
-
-
-    std::cout << count; // 입력된 총 문자 개수 출력
-
-    return 0;
 }
